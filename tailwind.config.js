@@ -12,7 +12,11 @@ export default {
         '2xl': '6rem',
       },
     },
-    extend: {},
+    extend: {
+      fontFamily: {
+        logo: ['Dogica-bold'],
+      },
+    },
   },
   plugins: [],
 };

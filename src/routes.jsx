@@ -1,4 +1,4 @@
-import App from './components/App';
+import App from './App';
 import ErrorPage from './components/ErrorPage';
 import {
   Route,
