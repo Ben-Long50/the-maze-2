@@ -6,10 +6,6 @@ export const imageUrls = [
   "/backgrounds/Cave1.png",
   "/backgrounds/Cave2.png",
   "/backgrounds/Cave3.png",
-  "/backgrounds/City1.png",
-  "/backgrounds/City2.png",
-  "/backgrounds/City3.png",
-  "/backgrounds/City4.png",
   "/backgrounds/Mines.png",
   "/backgrounds/Shipwreck.png",
   "/backgrounds/Temple1.png",
@@ -36,7 +32,7 @@ export const imageUrls = [
   "/backgrounds/nature4.png",
   "/backgrounds/oasis1.png",
   "/backgrounds/oasis2.png",
-  "/backgrounds/orig_big.png",
+  "/backgrounds/ocean1.png",
   "/backgrounds/postapocalypse1.png",
   "/backgrounds/postapocalypse2.png",
   "/backgrounds/postapocalypse3.png",
@@ -44,5 +40,9 @@ export const imageUrls = [
   "/backgrounds/steampunk1.png",
   "/backgrounds/steampunk2.png",
   "/backgrounds/steampunk3.png",
-  "/backgrounds/steampunk4.png"
+  "/backgrounds/steampunk4.png",
+  "/backgrounds/street1.png",
+  "/backgrounds/street2.png",
+  "/backgrounds/street3.png",
+  "/backgrounds/street4.png"
 ];
